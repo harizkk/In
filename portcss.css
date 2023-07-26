@@ -1,3 +1,7 @@
+body{
+	dispaly : felx;
+	flex-wrap : wrap;
+}
 .nav {
     width:100%;
     left: 0;
